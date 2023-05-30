@@ -1,20 +1,20 @@
 # My Favorite Game: Bloodborne
 
-!(https://images3.alphacoders.com/641/641193.jpg)
+![Game Image] (https://wall.alphacoders.com/big.php?i=641193)
 
 ## Description
 
-Write a short writeup here about your favorite game and why you enjoy it.
+Bloodborne has a rich and intricate lore that is gradually unveiled as players explore the game world and discover hidden secrets. The storytelling is often cryptic and requires players to piece together the narrative through environmental cues, item descriptions, and encounters with non-playable characters.
 
 ## Game Details
 
-- Development Company: [Game Development Company]([https://company-website-url.com](https://www.fromsoftware.jp/ww/))
+- Development Company: FromSoftware (https://www.fromsoftware.jp/ww/)
 - Release Date: March 24, 2015
-- Game Engine: [PhyreEngine]
+- Game Engine: PhyreEngine
 
 ## Similar or Related Games
 
-- [Related Game 1](https://related-game-1-website-url.com)
-- [Related Game 2](https://related-game-2-website-url.com)
-- [Related Game 3](https://related-game-3-website-url.com)
+- DARK SOULS SERIES (https://www.darksouls.jp)
+- SEKIRO: SHADOWS DIE TWICE (https://www.sekiro.jp)
+- ELDEN RING (https://www.eldenring.jp)
 
