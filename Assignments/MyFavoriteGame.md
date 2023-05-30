@@ -1,6 +1,6 @@
 # My Favorite Game: Bloodborne
 
-![Game Image] (https://wall.alphacoders.com/big.php?i=641193)
+![Bloodborne Cover] (https://wall.alphacoders.com/big.php?i=641193)
 
 ## Description
 
