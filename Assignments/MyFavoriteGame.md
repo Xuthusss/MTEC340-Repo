@@ -1,6 +1,6 @@
-# My Favorite Game: [Bloodborne]
+# My Favorite Game: Bloodborne
 
-![Game Image]([image-url-here](https://images3.alphacoders.com/641/641193.jpg))
+!(https://images3.alphacoders.com/641/641193.jpg)
 
 ## Description
 
