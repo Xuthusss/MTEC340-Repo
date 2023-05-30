@@ -1,6 +1,6 @@
 # My Favorite Game: Bloodborne
 
-![Bloodborne Cover](https://images3.alphacoders.com/641/641193.jpg)
+![Bloodborne Cover](/Media/Bloodborne%20Cover.jpg)
 
 ## Description
 
@@ -8,13 +8,13 @@ Bloodborne has a rich and intricate lore that is gradually unveiled as players e
 
 ## Game Details
 
-- Development Company: FromSoftware (https://www.fromsoftware.jp/ww/)
+- Development Company: [FromSoftware](https://www.fromsoftware.jp/ww/)
 - Release Date: March 24, 2015
 - Game Engine: PhyreEngine
 
 ## Similar or Related Games
 
-- DARK SOULS SERIES (https://www.darksouls.jp)
-- SEKIRO: SHADOWS DIE TWICE (https://www.sekiro.jp)
-- ELDEN RING (https://www.eldenring.jp)
+- [DARK SOULS SERIES](https://www.darksouls.jp)
+- [SEKIRO: SHADOWS DIE TWICE](https://www.sekiro.jp)
+- [ELDEN RING](https://www.eldenring.jp)
 
